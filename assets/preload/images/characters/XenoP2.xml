@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="XenoP2.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Xeno2Down0000" x="6450" y="2321" width="627" height="700"/>
+	<SubTexture name="Xeno2Down0001" x="6450" y="2321" width="627" height="700"/>
+	<SubTexture name="Xeno2Down0002" x="7087" y="2321" width="627" height="700"/>
+	<SubTexture name="Xeno2Down0003" x="7087" y="2321" width="627" height="700"/>
+	<SubTexture name="Xeno2Down0004" x="3811" y="2401" width="627" height="700"/>
+	<SubTexture name="Xeno2Down0005" x="3811" y="2401" width="627" height="700"/>
+	<SubTexture name="Xeno2Down0006" x="4448" y="2401" width="627" height="700"/>
+	<SubTexture name="Xeno2Down0007" x="4448" y="2401" width="627" height="700"/>
+	<SubTexture name="Xeno2Down0008" x="5085" y="2401" width="627" height="700"/>
+	<SubTexture name="Xeno2Down0009" x="5085" y="2401" width="627" height="700"/>
+	<SubTexture name="Xeno2Down0010" x="5085" y="2401" width="627" height="700"/>
+	<SubTexture name="Xeno2Idle0000" x="1855" y="1508" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0001" x="1855" y="1508" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0002" x="2507" y="1508" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0003" x="2507" y="1508" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0004" x="5798" y="1513" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0005" x="5798" y="1513" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0006" x="6450" y="1513" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0007" x="6450" y="1513" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0008" x="7102" y="1513" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0009" x="7102" y="1513" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0010" x="3159" y="2240" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0011" x="3159" y="2240" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0012" x="1855" y="2316" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0013" x="1855" y="2316" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0014" x="2507" y="2316" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0015" x="2507" y="2316" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0016" x="5798" y="2321" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Idle0017" x="5798" y="2321" width="642" height="798" frameX="0" frameY="0" frameWidth="648" frameHeight="798"/>
+	<SubTexture name="Xeno2Laugh0000" x="10" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Laugh0001" x="835" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Laugh0002" x="1660" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Laugh0003" x="1660" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Laugh0004" x="2485" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Laugh0005" x="3310" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Laugh0006" x="4135" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Laugh0007" x="4135" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Laugh0008" x="4960" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Laugh0009" x="4960" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Laugh0010" x="5785" y="10" width="815" height="730"/>
+	<SubTexture name="Xeno2Left0000" x="6610" y="10" width="781" height="748"/>
+	<SubTexture name="Xeno2Left0001" x="7401" y="10" width="781" height="748"/>
+	<SubTexture name="Xeno2Left0002" x="7401" y="10" width="781" height="748"/>
+	<SubTexture name="Xeno2Left0003" x="10" y="750" width="781" height="748"/>
+	<SubTexture name="Xeno2Left0004" x="10" y="750" width="781" height="748"/>
+	<SubTexture name="Xeno2Left0005" x="801" y="750" width="781" height="748"/>
+	<SubTexture name="Xeno2Left0006" x="801" y="750" width="781" height="748"/>
+	<SubTexture name="Xeno2Left0007" x="1592" y="750" width="781" height="748"/>
+	<SubTexture name="Xeno2Left0008" x="1592" y="750" width="781" height="748"/>
+	<SubTexture name="Xeno2Left0009" x="2383" y="750" width="781" height="748"/>
+	<SubTexture name="Xeno2Left0010" x="2383" y="750" width="781" height="748"/>
+	<SubTexture name="Xeno2Right0000" x="3174" y="750" width="769" height="735"/>
+	<SubTexture name="Xeno2Right0001" x="3953" y="750" width="769" height="735"/>
+	<SubTexture name="Xeno2Right0002" x="3953" y="750" width="769" height="735"/>
+	<SubTexture name="Xeno2Right0003" x="4732" y="750" width="769" height="735"/>
+	<SubTexture name="Xeno2Right0004" x="4732" y="750" width="769" height="735"/>
+	<SubTexture name="Xeno2Right0005" x="5511" y="750" width="769" height="735"/>
+	<SubTexture name="Xeno2Right0006" x="5511" y="750" width="769" height="735"/>
+	<SubTexture name="Xeno2Right0007" x="6290" y="768" width="769" height="735"/>
+	<SubTexture name="Xeno2Right0008" x="6290" y="768" width="769" height="735"/>
+	<SubTexture name="Xeno2Right0009" x="7069" y="768" width="769" height="735"/>
+	<SubTexture name="Xeno2Right0010" x="3174" y="1495" width="769" height="735"/>
+	<SubTexture name="Xeno2Up0000" x="3953" y="1495" width="605" height="896"/>
+	<SubTexture name="Xeno2Up0001" x="4568" y="1495" width="605" height="896"/>
+	<SubTexture name="Xeno2Up0002" x="4568" y="1495" width="605" height="896"/>
+	<SubTexture name="Xeno2Up0003" x="5183" y="1495" width="605" height="896"/>
+	<SubTexture name="Xeno2Up0004" x="5183" y="1495" width="605" height="896"/>
+	<SubTexture name="Xeno2Up0005" x="10" y="1508" width="605" height="896"/>
+	<SubTexture name="Xeno2Up0006" x="10" y="1508" width="605" height="896"/>
+	<SubTexture name="Xeno2Up0007" x="625" y="1508" width="605" height="896"/>
+	<SubTexture name="Xeno2Up0008" x="625" y="1508" width="605" height="896"/>
+	<SubTexture name="Xeno2Up0009" x="1240" y="1508" width="605" height="896"/>
+	<SubTexture name="Xeno2Up0010" x="1240" y="1508" width="605" height="896"/>
+</TextureAtlas>
