@@ -1,0 +1,122 @@
+{
+   "animations": [
+      {
+         "anim": "idle",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Idle",
+         "offsets": [
+            -5,
+            0
+         ]
+      },
+      {
+         "anim": "singLEFT",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Sing_Left",
+         "offsets": [
+            57,
+            -10
+         ]
+      },
+      {
+         "anim": "singDOWN",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Sing_Down",
+         "offsets": [
+            10,
+            -13
+         ]
+      },
+      {
+         "anim": "singUP",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Sing_Up",
+         "offsets": [
+            -69,
+            57
+         ]
+      },
+      {
+         "anim": "singLEFTmiss",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Left_Miss",
+         "offsets": [
+            67,
+            69
+         ]
+      },
+      {
+         "anim": "singDOWNmiss",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Down_Miss",
+         "offsets": [
+            5,
+            -9
+         ]
+      },
+      {
+         "anim": "singUPmiss",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Up_Miss",
+         "offsets": [
+            -76,
+            137
+         ]
+      },
+      {
+         "anim": "singRIGHTmiss",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Right_Miss",
+         "offsets": [
+            -34,
+            96
+         ]
+      },
+      {
+         "anim": "singRIGHT",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Sing_Right",
+         "offsets": [
+            -28,
+            13
+         ]
+      }
+   ],
+   "camera_position": [
+      150,
+      -130
+   ],
+   "flip_x": false,
+   "healthbar_colors": [
+      49,
+      176,
+      209
+   ],
+   "healthicon": "bf",
+   "image": "characters/BFPhase3_Perspective_Flipped",
+   "no_antialiasing": false,
+   "position": [
+      150,
+      350
+   ],
+   "scale": 1,
+   "sing_duration": 4
+}

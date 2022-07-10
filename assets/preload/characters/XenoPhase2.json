@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Xeno2Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				399,
+				88
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Xeno2Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				66
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Xeno2Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Xeno2Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				229
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Xeno2Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				60
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Xeno2Laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoP2",
+	"position": [
+		10,
+		160
+	],
+	"healthicon": "xeno2",
+	"flip_x": false,
+	"healthbar_colors": [
+		62,
+		0,
+		128
+	],
+	"camera_position": [
+		-160,
+		-30
+	],
+	"sing_duration": 5.8,
+	"scale": 1
+}
